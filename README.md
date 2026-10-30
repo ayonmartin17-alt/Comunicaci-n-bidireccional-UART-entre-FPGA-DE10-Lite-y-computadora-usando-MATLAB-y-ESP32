@@ -123,12 +123,14 @@ La conexión TX↔RX es cruzada y es indispensable compartir tierra.
 - MATLAB (`serialport`)
 - FPGA DE10-Lite y ESP32
 
-## Autor
+## Autores
 
-**Nombre:** _tu nombre_
-**Matrícula:** _tu matrícula_
-**Curso:** Sistemas Embebidos – UDLAP
-**Profesor:** _nombre del profesor_
+- Nombre: Martín Ayón Castañed
+- Matricula: 184298
+- Nombre: Sarahi Juárez García
+- Matricula: 186581
+- Materia: Sistemas Embebidos – UDLAP
+- Profesor: Gerardo Ulises Diaz Arango
 
 ## Referencias
 
